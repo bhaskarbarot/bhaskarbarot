@@ -1,3 +1,4 @@
+![logo](https://github.com/bhaskarbarot/bhaskarbarot/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Bhaskar Barot</h1>
 <h3 align="center">I am data scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2881.jpg?w=2000">
