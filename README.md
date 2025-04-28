@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1KOWSFG19ory06NXvOqB-SSlddY7CJi-a" alt="logo" width="200" />
+  <img src="https://drive.google.com/uc?export=view&id=1KOWSFG19ory06NXvOqB-SSlddY7CJi-a" alt="logo" width="2000" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Bhaskar Barot</h1>
