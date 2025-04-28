@@ -1,4 +1,4 @@
-![logo]([https://github.com/bhaskarbarot/bhaskarbarot/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png](https://www.canva.com/design/DAGl1HvRRRc/0TJirnaFLdGwAGkiEb--vQ/edit?utm_content=DAGl1HvRRRc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![logo](https://drive.google.com/file/d/1KOWSFG19ory06NXvOqB-SSlddY7CJi-a/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Bhaskar Barot</h1>
 <h3 align="center">I am data scientist from India</h3>
 <img align="right" alt="coding" width="300" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2881.jpg?w=2000">
