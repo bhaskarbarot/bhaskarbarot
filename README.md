@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" width="300" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2881.jpg?w=2000">
 
-- 🌱 Currently learning **Data Science at IIT Madras & Google**  
+- 🌱 Currently working **Data Scientist at Capgemini**  
 - 💡 Passionate about **AI, ML, Computer Vision & NLP**  
 - 📊 Strong in **Python, SQL, Pandas, Scikit-learn, Streamlit, Power BI**  
 - 🤝 Love solving real-world problems with data  
