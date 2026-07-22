@@ -1,143 +1,162 @@
 <div align="center">
 
-<img src="https://drive.google.com/uc?export=view&id=1KOWSFG19ory06NXvOqB-SSlddY7CJi-a" alt="logo" width="100%" />
+# Hi, I'm Bhaskar Barot 👋
 
-<br/>
+### AI/ML Engineer &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Computer Vision
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhaskar+Barot;Data+Scientist+%40+Capgemini;AI+%7C+ML+%7C+Computer+Vision+%7C+NLP;Turning+Data+into+Decisions" alt="Typing SVG" />
-</a>
+I build production-grade agentic AI systems — multi-agent workflows, RAG pipelines, and real-time computer vision — that solve real business problems, not just notebooks.
 
-<br/>
+<sub>📍 Ahmedabad, Gujarat, India</sub>
 
-![Profile Views](https://komarev.com/ghpvc/?username=bhaskarbarot&label=Profile%20Views&color=00d9ff&style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhaskar-barot-9b2455252)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/barot._bhaskar/)
-[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barotb076@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaskar-d-barot/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaskar.barot23@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-git-main-bhaskar-barots-projects.vercel.app/)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```python
-class DataScientist:
+class AIMLEngineer:
     def __init__(self):
-        self.name = "Bhaskar Barot"
-        self.role = "Data Scientist @ Capgemini"
-        self.location = "India 🇮🇳"
-        self.focus = ["AI", "Machine Learning", "Computer Vision", "NLP"]
-        self.currently_exploring = "LLMs, Agentic AI & MLOps"
+        self.name        = "Bhaskar Barot"
+        self.role        = "AI/ML Engineer"
+        self.currently_at = "Elsner Technologies"
+        self.experience   = "2.5+ years"
+        self.specialties  = ["Agentic AI", "LLMs", "RAG Pipelines", "Computer Vision"]
 
     def say_hi(self):
-        print("Thanks for visiting my profile — let's build something intelligent!")
+        return "Let's build something autonomous."
 
-me = DataScientist()
-me.say_hi()
+bhaskar = AIMLEngineer()
+print(bhaskar.say_hi())
 ```
 
-- 🔭 Currently working as a **Data Scientist at Capgemini**
-- 🌱 Deep-diving into **LLMs, Generative AI & Agentic Workflows**
-- 💡 Passionate about turning messy real-world data into **actionable insights**
-- 🛠️ Building end-to-end ML pipelines — from data wrangling to deployment
-- 🤝 Open to collaborating on **AI/ML, Computer Vision & NLP** projects
-- 📫 Reach me at **barotb076@gmail.com**
+- 🔭 Building multi-agent AI systems & RAG pipelines as an **AI/ML Engineer at Elsner Technologies**
+- ⚡ 2.5+ years shipping production AI — LLM-powered agents, RAG systems, and real-time computer vision
+- 🧠 Core focus: **Agentic AI** (LangChain / LangGraph), **RAG**, **LLM fine-tuning**, and **MLOps**
+- 🎓 Advanced Programming Professional & Master Data Scientist — **IIT Madras**
+- 📫 Reach me at **bhaskar.barot23@gmail.com**
 
 ---
 
-### 🧰 Tech Stack
-
-<div align="center">
+## 🧰 Tech Stack
 
 **Languages & Databases**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-**AI / ML / Data**
+**Generative AI & Agentic Systems**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Machine Learning & Computer Vision**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-268BD2?style=for-the-badge&logoColor=white)
 
-**Visualization & Apps**
+**Data Engineering & Analytics**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+**Cloud, MLOps & Deployment**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-F4AA41?style=for-the-badge&logo=MLflow&logoColor=black)
+
+**Visualization & Tools**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logoColor=white)
-
-**Tools & Automation**
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
+
+## 💼 Experience
+
+**AI/ML Developer** · [Elsner Technologies](https://www.elsner.com/) &nbsp;|&nbsp; Nov 2025 – Present
+- Architecting multi-agent systems with **LangChain & LangGraph**, enabling autonomous agents to plan, reason, and execute complex workflows together
+- Building **RAG pipelines** on OpenAI APIs + Pinecone, backed by Neo4j, PostgreSQL & Redis for graph-based reasoning and low-latency retrieval
+- Applying reinforcement learning and Mixture-of-Experts concepts to push agent decision-making beyond standard prompting
+
+**Data Scientist** · [Capgemini](https://www.capgemini.com/) &nbsp;|&nbsp; Sept 2023 – Sept 2025
+- Shipped an AI-powered error-prediction & root-cause engine (time-series forecasting + LLM log analysis), lifting error categorization accuracy **30%**
+- Layered RAG and prompt engineering onto legacy automation tools, cutting support ticket volume **40%**
+- Deployed scalable MLOps pipelines on **AWS SageMaker** with Docker & CI/CD; mentored junior data scientists
+
+---
+
+## 🚀 Featured Projects
+
+**AI-Based Facial Recognition Attendance System**
+
+Real-time, multi-camera attendance system streaming **21+ concurrent RTSP feeds** through a detect → track → embed → recognize pipeline, with smart in/out punch logic and a Flask REST API for HRMS integration.
+
+`YOLOv8` `ByteTrack` `RetinaFace` `ArcFace` `FAISS` `OpenCV` `Flask`
+
+**Plutus — AI Quantitative Research Platform**
+
+Institutional-grade research platform coordinating **17+ specialized agents** across an 11-stage pipeline, combining RAG over live financial data with probability-weighted Bull / Bear / Base scenario modeling.
+
+`Agentic AI` `RAG` `FastAPI` `Redis` `PostgreSQL` `Docker`
+
+**AI Data Analysis Chatbot**
+
+Production chatbot that turns natural language into live **MongoDB queries and Pandas code** across CSV, Excel, Sheets, and API sources — zero hardcoded schemas, sandboxed execution, Redis-cached for speed.
+
+`LangGraph` `FastAPI` `MongoDB` `Pandas` `Streamlit`
+
+<sub>Code for all three lives on my GitHub — happy to wire up direct repo links here if you'd like.</sub>
+
+---
+
+## 🎓 Education & Certifications
+
+- **Advanced Programming Professional & Master Data Scientist** — IIT Madras &nbsp;<sub>(Sept 2024 – Jan 2025)</sub>
+- **MBA, Information Technology** — Gujarat Technological University &nbsp;<sub>(May 2022 – Feb 2024)</sub>
+
+Selected certifications:
+- AI–Machine Learning Engineer — Reliance Foundation & NSDL
+- Advanced Data Analyst · The Nuts and Bolts of Machine Learning — Google
+- Introduction to Large Language Models — Sololearn
+
+<sub>+9 more on LinkedIn, including Prompt Engineering, Data Visualization, and Power BI.</sub>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bhaskarbarot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="55%" alt="Bhaskar's GitHub stats" />
 </div>
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bhaskarbarot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskarbarot&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=bhaskarbarot&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskarbarot&theme=tokyo-night&hide_border=true" width="98%" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bhaskarbarot&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-### 🚀 Featured Projects
-
 <div align="center">
 
-| Project | Description | Tech |
-|---|---|---|
-| 🔍 **[Project Name]** | One-line description of a CV / NLP / ML project and its impact | `Python` `OpenCV` `TensorFlow` |
-| 📈 **[Project Name]** | One-line description — e.g. churn prediction / dashboard | `Scikit-learn` `Streamlit` |
-| 🤖 **[Project Name]** | One-line description of an automation / scraping tool | `Selenium` `Pandas` |
+### 💬 Let's Connect
 
-*(Update this table with your real repo links — pinned projects convert visitors into followers.)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaskar-d-barot/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaskar.barot23@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-git-main-bhaskar-barots-projects.vercel.app/)
 
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/bhaskarbarot/bhaskarbarot/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-> 💡 To enable this, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates this animation from your contribution graph.
-
----
-
-<div align="center">
-
-### 💬 Let's Connect & Collaborate
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhaskar-barot-9b2455252)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/barot._bhaskar/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:barotb076@gmail.com)
-
-[![](https://visitcount.itsvg.in/api?id=bhaskarbarot&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<sub>⭐ If you find my work interesting, consider starring my repositories!</sub>
+<sub>Thanks for stopping by — if something here was useful, a ⭐ on my repos means a lot.</sub>
 
 </div>
