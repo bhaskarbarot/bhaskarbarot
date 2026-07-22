@@ -23,8 +23,8 @@ class AIMLEngineer:
     def __init__(self):
         self.name        = "Bhaskar Barot"
         self.role        = "AI/ML Engineer"
-        self.currently_at = "Elsner Technologies"
-        self.experience   = "2.5+ years"
+        self.currently_at = "CYPHEROX Technologies"
+        self.experience   = "3+ years"
         self.specialties  = ["Agentic AI", "LLMs", "RAG Pipelines", "Computer Vision"]
 
     def say_hi(self):
@@ -34,8 +34,8 @@ bhaskar = AIMLEngineer()
 print(bhaskar.say_hi())
 ```
 
-- 🔭 Building multi-agent AI systems & RAG pipelines as an **AI/ML Engineer at Elsner Technologies**
-- ⚡ 2.5+ years shipping production AI — LLM-powered agents, RAG systems, and real-time computer vision
+- 🔭 Building multi-agent AI systems & RAG pipelines as an **AI/ML Engineer at CYPHEROX Technologies**
+- ⚡ 3+ years shipping production AI — LLM-powered agents, RAG systems, and real-time computer vision
 - 🧠 Core focus: **Agentic AI** (LangChain / LangGraph), **RAG**, **LLM fine-tuning**, and **MLOps**
 - 🎓 Advanced Programming Professional & Master Data Scientist — **IIT Madras**
 - 📫 Reach me at **bhaskar.barot23@gmail.com**
@@ -91,39 +91,25 @@ print(bhaskar.say_hi())
 
 ## 💼 Experience
 
-**AI/ML Developer** · [Elsner Technologies](https://www.elsner.com/) &nbsp;|&nbsp; Nov 2025 – Present
-- Architecting multi-agent systems with **LangChain & LangGraph**, enabling autonomous agents to plan, reason, and execute complex workflows together
-- Building **RAG pipelines** on OpenAI APIs + Pinecone, backed by Neo4j, PostgreSQL & Redis for graph-based reasoning and low-latency retrieval
-- Applying reinforcement learning and Mixture-of-Experts concepts to push agent decision-making beyond standard prompting
+**AI/ML Developer** · [CYPHEROX Technologies](https://www.cypherox.com/)  |  June 2026 – Present
 
-**Data Scientist** · [Capgemini](https://www.capgemini.com/) &nbsp;|&nbsp; Sept 2023 – Sept 2025
-- Shipped an AI-powered error-prediction & root-cause engine (time-series forecasting + LLM log analysis), lifting error categorization accuracy **30%**
-- Layered RAG and prompt engineering onto legacy automation tools, cutting support ticket volume **40%**
-- Deployed scalable MLOps pipelines on **AWS SageMaker** with Docker & CI/CD; mentored junior data scientists
+* Architected production-grade **multi-agent AI systems** using **LangChain & LangGraph**, enabling autonomous planning, reasoning, memory management, and tool orchestration across specialized AI agents.
+* Built scalable **RAG pipelines** with **OpenAI APIs**, vector databases, **Neo4j**, **PostgreSQL**, and **Redis**, delivering low-latency retrieval, graph-based reasoning, and enterprise knowledge search.
+* Engineered end-to-end **Generative AI** solutions with advanced prompt engineering, embeddings, semantic search, structured outputs, and production-ready deployment using Docker and FastAPI.
 
----
+**AI/ML Developer** · [Elsner Technologies](https://www.elsner.com/)  |  Nov 2025 – June 2026
 
-## 🚀 Featured Projects
+* Designed enterprise-grade **LLM applications** and **multi-agent workflows** using **LangChain & LangGraph** for intelligent automation and complex business processes.
+* Developed high-performance **RAG architectures** integrating OpenAI APIs, vector search, document chunking, metadata filtering, and retrieval optimization for accurate AI responses.
+* Optimized AI inference pipelines through prompt engineering, asynchronous processing, API integrations, and scalable backend services to improve performance and reliability.
 
-**AI-Based Facial Recognition Attendance System**
+**Data Scientist** · [Capgemini](https://www.capgemini.com/)  |  Sept 2023 – Nov 2025
 
-Real-time, multi-camera attendance system streaming **21+ concurrent RTSP feeds** through a detect → track → embed → recognize pipeline, with smart in/out punch logic and a Flask REST API for HRMS integration.
+* Built an AI-powered error prediction and root-cause analysis platform combining machine learning, time-series forecasting, and LLM-driven log intelligence, improving issue categorization accuracy by **30%**.
+* Enhanced enterprise automation with **Retrieval-Augmented Generation (RAG)** and prompt engineering, reducing support ticket volume by **40%** while improving response quality.
+* Developed and deployed scalable ML pipelines on **AWS SageMaker** using Docker, CI/CD, and MLOps best practices, while mentoring junior data scientists.
 
-`YOLOv8` `ByteTrack` `RetinaFace` `ArcFace` `FAISS` `OpenCV` `Flask`
 
-**Plutus — AI Quantitative Research Platform**
-
-Institutional-grade research platform coordinating **17+ specialized agents** across an 11-stage pipeline, combining RAG over live financial data with probability-weighted Bull / Bear / Base scenario modeling.
-
-`Agentic AI` `RAG` `FastAPI` `Redis` `PostgreSQL` `Docker`
-
-**AI Data Analysis Chatbot**
-
-Production chatbot that turns natural language into live **MongoDB queries and Pandas code** across CSV, Excel, Sheets, and API sources — zero hardcoded schemas, sandboxed execution, Redis-cached for speed.
-
-`LangGraph` `FastAPI` `MongoDB` `Pandas` `Streamlit`
-
-<sub>Code for all three lives on my GitHub — happy to wire up direct repo links here if you'd like.</sub>
 
 ---
 
