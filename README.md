@@ -2,6 +2,8 @@
 
 # Hi, I'm Bhaskar Barot 👋
 
+**Bhaskar Dipakkumar Barot** · AI & Machine Learning Engineer
+
 ### AI/ML Engineer &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; LLMs &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Computer Vision
 
 I build production-grade agentic AI systems — multi-agent workflows, RAG pipelines, and real-time computer vision — that solve real business problems, not just notebooks.
