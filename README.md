@@ -115,6 +115,71 @@ print(bhaskar.say_hi())
 
 ---
 
+## 🚀 Projects
+
+> All my work in one place, both public and private repos.
+> ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) repos have open source code.
+> ![Private](https://img.shields.io/badge/Private-555555?style=flat-square&logo=github) repos are client or production work: the code stays private, but you can try the live demo. For a code walkthrough, [email me](mailto:bhaskar.barot23@gmail.com).
+
+### 🤖 Agentic AI & LLM Systems
+
+| Project | What it does | Stack | Code | Live |
+|---|---|---|---|---|
+| **Drago** | Voice-first personal AI assistant for Android that controls your phone: reads emails, sends messages, manages notifications and operates apps through an LLM agent loop | TypeScript · Kotlin · Python | ![Private](https://img.shields.io/badge/Private-555555?style=flat-square&logo=github) | [📲 Download APK](https://github.com/bhaskarbarot/Drago-releases/releases/latest) |
+| **Multi Agentic Company** | Autonomous multi-agent software engineering platform: breaks a goal into tasks, sends them to a fleet of 85 specialist agents, enforces safety policy at every step and returns verified work | Python · TypeScript | ![Private](https://img.shields.io/badge/Private-555555?style=flat-square&logo=github) | — |
+| **Receipt Audit Agent** | LangGraph agent that reads Gmail, finds receipts in any language, matches them to card statements, files them in Google Drive and logs them to Google Sheets | Python · LangGraph | ![Private](https://img.shields.io/badge/Private-555555?style=flat-square&logo=github) | [🌐 Live](https://receipt-audit-site.onrender.com) |
+| **Quote Agent** | Agentic chatbot that turns a customer's cabinet list into a professional quote in minutes, reading live brand price sheets and applying the owner's quoting rules | Python · LangGraph | ![Private](https://img.shields.io/badge/Private-555555?style=flat-square&logo=github) | — |
+| **Invoice OCR** | AI supplier-invoice capture for retail: reads PDFs, scans or photos, extracts every product line, checks the maths and flags price changes | Python · JavaScript | ![Private](https://img.shields.io/badge/Private-555555?style=flat-square&logo=github) | [🌐 Live](https://invoiceocr-six.vercel.app) |
+| **Financial Project** | Financial data pipeline on PostgreSQL and a Neo4j knowledge graph | Python · PL/pgSQL · Cypher | ![Private](https://img.shields.io/badge/Private-555555?style=flat-square&logo=github) | — |
+| **HRMS Automation** | Automation of HR management workflows | Python | ![Private](https://img.shields.io/badge/Private-555555?style=flat-square&logo=github) | — |
+| **Scrapper** | LLM-powered web scraping pipeline built on ScrapeGraphAI | Python · Docker | ![Private](https://img.shields.io/badge/Private-555555?style=flat-square&logo=github) | — |
+| [**Data Analysis Agent**](https://github.com/bhaskarbarot/Data_Analysis) | Upload a CSV, ask in plain English, and get statistics, charts, AI-written insights and a downloadable report | Python · LangGraph · LangChain · Streamlit | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) | [🌐 Live](https://analysiscsv.streamlit.app) |
+| [**Agentic RAG System**](https://github.com/bhaskarbarot/Viitorcloud_Project) | Production-style agentic RAG with a data pipeline and conversational flow, using Ollama, Qdrant, Redis and Streamlit | Python | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) | — |
+| [**Ontology Store**](https://github.com/bhaskarbarot/Manektech) | Ontology store with separate literal, vector and graph retrieval layers on PostgreSQL | Python · PostgreSQL | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) | [🎥 Demo](https://www.loom.com/share/563572af5da547e69acc574dc3a3cdad) |
+| [**Lead Miner Agent**](https://github.com/bhaskarbarot/Quantum_bot) | Multi-step lead-processing agent with MCP-style tools, schema validation and a structured API | Python · FastAPI · Pydantic | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) | — |
+| [**Vanna SQL Chatbot**](https://github.com/bhaskarbarot/vanna_elsner) | Ask plain-English questions about a PostgreSQL database and get real query results (Vanna AI, SQLCoder, ChromaDB) | Python · Flask · Docker | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) | — |
+| [**Chatbot**](https://github.com/bhaskarbarot/chatbot) | LLM chatbot that answers questions over MongoDB data | Python · JavaScript | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) | — |
+| [**OwnSearch**](https://github.com/bhaskarbarot/Own_Web_search) | Self-owned web search engine in pure Python: crawler, indexer and search with no paid APIs | Python | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) | — |
+| [**User Agreement RAG Chatbot**](https://github.com/bhaskarbarot/RAG_Project_Amlgo-Labs) | RAG chatbot that answers questions about a long legal document with source-backed answers | Python · Jupyter | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) | — |
+| [**Bhaskar's GPT**](https://github.com/bhaskarbarot/bhaskar-s-GPT) | Streamlit app on a Llama model from Hugging Face that gives a "funny" and a "serious" answer | Python · Hugging Face | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) | — |
+
+### 🌐 Web Apps & Products
+
+| Project | What it does | Stack | Code | Live |
+|---|---|---|---|---|
+| [**Image4k**](https://github.com/bhaskarbarot/Image4k) | 45+ free in-browser tools: HD/4K upscaling, resize, compress, background removal, OCR, PDF, developer and data tools | JavaScript · HTML · CSS | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) | [🌐 Live](https://image4k.pages.dev) |
+| **Portfolio** | My personal portfolio site with case studies and résumé | JavaScript · HTML · CSS | ![Private](https://img.shields.io/badge/Private-555555?style=flat-square&logo=github) | [🌐 Live](https://bhaskarbarot.vercel.app) |
+| [**CX Daily Reporting**](https://github.com/bhaskarbarot/reporting_cx) | Automated daily reports emailed from a customer-experience system | Python · HTML | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) | [🌐 Live](https://reportingsmain.vercel.app) |
+| [**QbionAI**](https://github.com/bhaskarbarot/QbionAI) | Company website built with Next.js | Next.js · TypeScript | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) | — |
+| [**Masum**](https://github.com/bhaskarbarot/Masum) | Baby-products storefront website | JavaScript · HTML · CSS | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) | — |
+| **POC (v2)** | Proof-of-concept web page | HTML | ![Private](https://img.shields.io/badge/Private-555555?style=flat-square&logo=github) | [🌐 Live](https://pocc-wine.vercel.app) |
+| [**POC**](https://github.com/bhaskarbarot/POC) | Proof-of-concept web page | HTML | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) | — |
+| **Portfolio v2** | Earlier portfolio design | HTML | ![Private](https://img.shields.io/badge/Private-555555?style=flat-square&logo=github) | [🌐 Live](https://portfolio22-nine.vercel.app) |
+| [**Portfolio v1**](https://github.com/bhaskarbarot/portfolio2) | First portfolio site | HTML | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) | — |
+
+### 🧠 Deep Learning & Computer Vision
+
+| Project | What it does | Stack | Code |
+|---|---|---|---|
+| [**Tumour Detection (MRI)**](https://github.com/bhaskarbarot/Tumour-Detection-using-Human-MRI) | CNN that detects and classifies brain tumours from MRI scans | Python · CNN | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) |
+| [**Tuberculosis Detection**](https://github.com/bhaskarbarot/Tuberculosis-Detection-Using-Deep-Learning) | Transfer-learning model that classifies chest X-rays as Normal or TB, with a Streamlit UI | Python · TensorFlow · Streamlit | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) |
+| [**Plant Disease Detection**](https://github.com/bhaskarbarot/Plant-Disease-Detection-project) | Upload a leaf photo and a CNN predicts the plant disease | Python · CNN · Streamlit | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) |
+| [**Emotion Detection**](https://github.com/bhaskarbarot/Emotion-Detection-project) | Face detection plus a CNN trained on FER-2013 that classifies emotions | Python · Dlib · Mediapipe | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) |
+| [**LSTM Text Generator**](https://github.com/bhaskarbarot/Interview_task_LSTM) | Character-level LSTM that generates Shakespeare-style text | TensorFlow · Keras | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) |
+
+### 📊 Data Science & Analytics
+
+| Project | What it does | Stack | Code |
+|---|---|---|---|
+| [**Audible Insights**](https://github.com/bhaskarbarot/Audible-Insights-Intelligent-Book-Recommendations) | Intelligent book recommendation system | Python · NLP · Streamlit | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) |
+| [**Flight Price & Satisfaction**](https://github.com/bhaskarbarot/Flight-Price-and-Customer-Satisfaction-Prediction) | Predicts flight prices and classifies customer satisfaction | Python · ML | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) |
+| [**Global Electronics EDA**](https://github.com/bhaskarbarot/Global-Electronics-Comprehensive-Exploratory-Data-Analysis-EDA-) | Exploratory analysis of customers, products, sales and stores for an electronics retailer | Python · Pandas | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) |
+| [**RedBus Analysis**](https://github.com/bhaskarbarot/REDBUS-PROJECT-USING-STREAMLIT) | Scrapes RedBus with Selenium, stores the data in SQL and explores it in Streamlit | Python · Selenium · SQL | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) |
+| [**Kristalball**](https://github.com/bhaskarbarot/kristalball) | Data science notebook project | Jupyter | ![Public](https://img.shields.io/badge/Public-2ea44f?style=flat-square) |
+| **My Datasets** | Personal collection of datasets and reference notebooks | Jupyter | ![Private](https://img.shields.io/badge/Private-555555?style=flat-square&logo=github) |
+
+---
+
 ## 🎓 Education & Certifications
 
 - **Advanced Programming Professional & Master Data Scientist** — IIT Madras &nbsp;<sub>(Sept 2024 – Jan 2025)</sub>
